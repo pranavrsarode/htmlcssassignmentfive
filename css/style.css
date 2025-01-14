@@ -1,0 +1,55 @@
+.main-content{
+    background-color: lightyellow;
+    height: 800px;
+    width: 100%;
+}
+
+.column-content{
+    background-color: rgba(152,73,79,255);
+    height: 800px;
+    width: 30%;
+}
+
+.profile{
+    margin: 0px 150px;
+    position: relative;
+    top: 60px;
+}
+
+.image img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.profile h4{
+    margin: 15px 30px;
+}
+
+.profile span{
+    margin: 0px 20px;
+}
+
+.info{
+    margin: 0px 150px;
+    position: relative;
+    top: 60px;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.main-menu li{
+    padding: 5px 0px 20px 0px;
+    position: relative;
+    top: 40px;
+    display: block;
+}
+
+.main-nav li a:hover {
+    background-color: white;
+}
