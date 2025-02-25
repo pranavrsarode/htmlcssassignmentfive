@@ -80,3 +80,12 @@ hr {
     width: 450px;
     right: 150px;
 }
+
+.right-content h2 {
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom: 750px;
+    left: 200px;
+    font-family: sans-serif;
+}
