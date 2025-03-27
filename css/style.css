@@ -82,10 +82,28 @@ hr {
 }
 
 .right-content h2 {
-    color: black;
+    color: white;
     text-align: center;
     position: relative;
-    bottom: 750px;
+    bottom: 1520px;
     left: 200px;
+    font-family: sans-serif;
+}
+
+.right-content img {
+    height: 800px;
+    width: 1052px;
+    position: relative;
+    left: 450px;
+    bottom: 800px;
+}
+
+.right-content h3{
+    position: relative;
+    bottom: 1500px;
+    color: lightgrey;
+    left: 200px;
+    font-size: small;
+    text-align: center;
     font-family: sans-serif;
 }
