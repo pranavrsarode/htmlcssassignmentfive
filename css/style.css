@@ -107,3 +107,42 @@ hr {
     text-align: center;
     font-family: sans-serif;
 }
+
+.right-content-image {
+    height: 150px;
+    width: 250px;
+    position: relative;
+    left: 500px;
+    bottom: 1450px;
+}
+
+.right-content-image img {
+    position: relative;
+    height: 270px;
+    width: 450px;
+}
+
+.right-content-image h2 {
+    position: relative;
+    left: 470px;
+    bottom: 280px;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.right-content-image h3 {
+    position: relative;
+    left: 490px;
+    bottom: 280px;
+    color: lightgrey;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.right-content-image input {
+    height: 30px;
+    width: 80px;
+    position: relative;
+    left: 490px;
+    bottom: 280px;
+}
