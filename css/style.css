@@ -141,8 +141,36 @@ hr {
 
 .right-content-image input {
     height: 30px;
-    width: 80px;
+    width: 100px;
     position: relative;
     left: 490px;
     bottom: 280px;
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
 }
+
+.bottom-content h2{
+    position: relative;
+    left: 480px;
+    bottom: 1250px;
+    color: white;
+    font-family: sans-serif;
+    font-size: medium;
+}
+ .bottom-content h3 {
+    position: relative;
+    left: 500px;
+    bottom: 1250px;
+    color: lightgray;
+    font-size: medium;
+    font-family: sans-serif;
+ }
+
+ .bottom-content img {
+    position: relative;
+    height: 180px;
+    width: 360px;
+    left: 1060px;
+    bottom: 1380px;
+ }
